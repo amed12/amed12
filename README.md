@@ -40,7 +40,7 @@
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [sun3toline](https://martinheinz.dev/) as well as on [DEV.to](https://dev.to/).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [sun3toline](https://martinheinz.dev/) as well as on [DEV.to](https://dev.to//amed12).
 
 <details>
 <summary>More...</summary>

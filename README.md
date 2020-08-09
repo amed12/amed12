@@ -123,7 +123,22 @@ Testing
 - [Codelabs -> Android Testing -> Unit testing with JUnit and Mockito]() 0%
 - [Codelabs -> Android Testing -> Espresso for UI testing]() 0%
 
+## Backend Study Documentation
+Study NodeJS Developer RoadMap based on course.
+- [The Complete Node.js Dev Course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
+
+### GuideLine
+- [Backend Roadmap](https://roadmap.sh/backend)
+
+### Study documentation
+NodeJS Basic
+- [First Script](https://github.com/amed12/node-js-study/commit/3a548315b5288c19c0ac32b352f5adaa9eae0240) 100%
+
+This section describe how file js can execute by node js . This code contain code that running log on js. See this [link](https://nodejs.org/dist/latest-v14.x/docs/api/console.html#console_console_log_data_args)
+
+
 ## What I want to learn or improve in the future
 - UI/UX design
+- Backend with nodeJS
 
 </details>

@@ -40,7 +40,7 @@
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [sun3toline](https://martinheinz.dev/) as well as on [DEV.to](https://dev.to//amed12).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [santridev.com](https://santridev.com/) as well as on [DEV.to](https://dev.to//amed12).
 
 <details>
 <summary>More...</summary>
@@ -68,60 +68,60 @@ Study material to get the Google Developer Android Kotlin certificate.
 Android core
 - [Android Developers -> Toasts](https://developer.android.com/guide/topics/ui/notifiers/toasts) 100%
 - [Android Developers -> Snackbar](https://developer.android.com/reference/android/support/design/widget/Snackbar) 50%
-- [Android Developers -> Localize your app]() 0%
-- [Android Developers -> Application fundamentals]() 0%
-- [Android Developers -> Create a notification]() 0%
-- [Android Developers -> AndroidX overview]() 0%
-- [Android Developers -> Getting started with Jetpack]() 0%
-- [Android Developers -> Android KTX (Kotlin)]() 0%
-- [Codelabs -> Notifications]() 0%
-- [Codelabs -> JobScheduler]() 0%
-- [Codelabs -> WorkManager (Kotlin)]() 0%
+- [Android Developers -> Localize your app]() 
+- [Android Developers -> Application fundamentals]() 
+- [Android Developers -> Create a notification]() 
+- [Android Developers -> AndroidX overview]() 
+- [Android Developers -> Getting started with Jetpack]() 
+- [Android Developers -> Android KTX (Kotlin)]() 
+- [Codelabs -> Notifications]() 
+- [Codelabs -> JobScheduler]() 
+- [Codelabs -> WorkManager (Kotlin)]() 
 
 User interface
-- [Android Developers -> Build a responsive UI with ConstraintLayout]() 0%
-- [Android Developers -> Create a list with RecyclerView]() 0%
-- [Android Developers -> Create a navigation drawer]() 0%
-- [Android Developers -> Custom view components]() 0%
-- [Android Developers -> Build more accessible custom views]() 0%
-- [Android Developers -> Styles and themes]() 0%
-- [Android Developers -> setContentDescription()]() 0%
-- [Android Developers -> Adding accessibility features to apps for blind and visually-impaired users]() 0%
-- [Android Tool Time - Building interfaces with ConstraintLayout in AS]() 0%
-- [Codelabs -> Activities and intents]() 0%
-- [Codelabs -> Your first interactive UI]() 0%
-- [Codelabs -> Themes and final touches]() 0%
-- [Codelabs -> RecyclerView]() 0%
-- [Codelabs -> Menus and pickers]() 0%
-- [Codelabs -> User navigation]() 0%
-- [Codelabs -> Material Components (Kotlin)]() 0%
-- [Codelabs -> Lifecycles]() 0%
-- [Codelabs -> Add user interactivity]() 0%
-- [Codelabs -> Constraint layout using the Layout Editor]() 0%
-- [Codelabs -> RecyclerView fundamentals (Kotlin)]() 0%
+- [Android Developers -> Build a responsive UI with ConstraintLayout]() 
+- [Android Developers -> Create a list with RecyclerView]() 
+- [Android Developers -> Create a navigation drawer]() 
+- [Android Developers -> Custom view components]() 
+- [Android Developers -> Build more accessible custom views]() 
+- [Android Developers -> Styles and themes]() 
+- [Android Developers -> setContentDescription()]() 
+- [Android Developers -> Adding accessibility features to apps for blind and visually-impaired users]() 
+- [Android Tool Time - Building interfaces with ConstraintLayout in AS]() 
+- [Codelabs -> Activities and intents]() 
+- [Codelabs -> Your first interactive UI]() 
+- [Codelabs -> Themes and final touches]() 
+- [Codelabs -> RecyclerView]() 
+- [Codelabs -> Menus and pickers]() 
+- [Codelabs -> User navigation]() 
+- [Codelabs -> Material Components (Kotlin)]() 
+- [Codelabs -> Lifecycles]() 
+- [Codelabs -> Add user interactivity]() 
+- [Codelabs -> Constraint layout using the Layout Editor]() 
+- [Codelabs -> RecyclerView fundamentals (Kotlin)]() 
 
 Data management
-- [Android Developers -> Shared preferences]() 0%
-- [Codelabs -> Room, LiveData and ViewModel]() 0%
-- [Codelabs -> Repository]() 0%
-- [Codelabs -> Drawables, styles, and themes]() 0%
-- [Codelabs -> Shared preferences]() 0%
-- [Codelabs -> App settings]() 0%
-- [Codelabs -> ViewModel and ViewModelFactory]() 0%
-- [Codelabs -> Room with a View (Kotlin)]() 0%
+- [Android Developers -> Shared preferences]() 
+- [Codelabs -> Room, LiveData and ViewModel]() 
+- [Codelabs -> Repository]() 
+- [Codelabs -> Drawables, styles, and themes]() 
+- [Codelabs -> Shared preferences]() 
+- [Codelabs -> App settings]() 
+- [Codelabs -> ViewModel and ViewModelFactory]() 
+- [Codelabs -> Room with a View (Kotlin)]() 
 
 Debugging
-- [Android Developers -> Debug your app]() 0%
-- [Android Dev Fundamentals -> Write and view logs with Logcat]() 0%
-- [Codelabs -> Android Studio debugger]() 0%
-- [Codelabs -> Add log statements to your app]() 0%
+- [Android Developers -> Debug your app]() 
+- [Android Dev Fundamentals -> Write and view logs with Logcat]() 
+- [Codelabs -> Android Studio debugger]() 
+- [Codelabs -> Add log statements to your app]() 
 
 Testing
-- [Android Developers -> Fundamentals of testing]() 0%
-- [Android Dev Fundamentals -> Automate UI tests]() 0%
-- [Codelabs -> Unit tests]() 0%
-- [Codelabs -> Android Testing -> Unit testing with JUnit and Mockito]() 0%
-- [Codelabs -> Android Testing -> Espresso for UI testing]() 0%
+- [Android Developers -> Fundamentals of testing]() 
+- [Android Dev Fundamentals -> Automate UI tests]() 
+- [Codelabs -> Unit tests]() 
+- [Codelabs -> Android Testing -> Unit testing with JUnit and Mockito]() 
+- [Codelabs -> Android Testing -> Espresso for UI testing]() 
 
 ## Backend Study Documentation
 Study NodeJS Developer RoadMap based on course.
@@ -132,7 +132,7 @@ Study NodeJS Developer RoadMap based on course.
 
 ### Study documentation
 NodeJS Basic
-- [First Script](https://github.com/amed12/node-js-study/commit/3a548315b5288c19c0ac32b352f5adaa9eae0240) 100%
+- [First Script](https://github.com/amed12/node-js-study/commit/3a548315b5288c19c0ac32b352f5adaa9eae0240) 10
 
 This section describe how file js can execute by node js . This code contain code that running log on js. See this [link](https://nodejs.org/dist/latest-v14.x/docs/api/console.html#console_console_log_data_args)
 

@@ -79,6 +79,8 @@ Android core
 - [Codelabs -> WorkManager (Kotlin)]() 
 
 User interface
+- All about recycler view
+  + [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) 
 - [Android Developers -> Build a responsive UI with ConstraintLayout]() 
 - [Android Developers -> Create a list with RecyclerView]() 
 - [Android Developers -> Create a navigation drawer]() 

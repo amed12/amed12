@@ -6,7 +6,7 @@
 ## :smiley: About Me
 
 
-- 🔭 I’m currently working on [Envirtups Apps Product](http://amed12.github.io/)  
+- 🔭 I’m currently working on [Qiscus (Qiscus Pte Ltd)](http://amed12.github.io/)  
   
 - 🌱 I’m currently learning **Android Development with Kotlin, Flutter**  
   

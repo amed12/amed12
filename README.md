@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Achmad Fathullah</h1>  
-<h3 align="center">My name is Achmad Fathullah and I'm a software developer/Mobile Developer Android. I'm from Indonesia, living in Malang, East Java and currently working at PT. Vascomm Solusi Teknologi.</h3>  
+<h3 align="center">My name is Achmad Fathullah and I'm a software developer/Mobile Developer Android. I'm from Indonesia, living in Malang, East Java and currently working at Qiscus (Qiscus Pte Ltd) </h3>  
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amed12" alt="amed12" /> </p>  
 
